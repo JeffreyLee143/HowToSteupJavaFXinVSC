@@ -1,4 +1,4 @@
-# HowToSteupJavaFXinVSX
+# HowToSteupJavaFXinVSC
 Fast guided to run JavaFX in vsc.
 # Step 1 Install vsc
 Install vsc.
