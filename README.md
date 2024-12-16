@@ -1,3 +1,5 @@
+[Visual Studio Code安裝JavaFX教學](https://github.com/JeffreyLee143/JavaFXinVSCorNetBeans/blob/main/README.md)
+[NetBeans安裝JavaFX教學](https://github.com/JeffreyLee143/JavaFXinVSCorNetBeans/blob/main/README_NetBeans.md)
 # HowToSteupJavaFXinVSC
 Fast guided to run JavaFX in vsc.
 # Step 1 Install vsc
